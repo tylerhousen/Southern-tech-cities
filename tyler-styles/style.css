@@ -3,3 +3,17 @@
     background-color: red;
     text-align: center;
 }
+.city1{
+    color:saddlebrown;
+    display:flex;
+    flex-direction:row;
+}
+.city2{
+    color:springgreen;
+    text-align:center;
+
+}
+.city3{
+    color:darkorange;
+    text-align: right;
+}
